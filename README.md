@@ -1,16 +1,33 @@
-## Hi there 👋
+# Mariusz Klochowicz
 
-<!--
-**klochowicz/klochowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust and systems engineer based in Adelaide, Australia. Twelve years
+shipping systems where correctness and business outcomes both matter,
+across search-and-rescue, fintech, aviation, industrial manufacturing
+and network security.
 
-Here are some ideas to get you started:
+**Available for engagements**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Rust modernisation**: rolling C++/legacy rewrites that ship features while rebuilding the foundations
+- **Architecture & bottleneck reviews**: data planes, concurrency, FFI
+- **AI-workflow enablement**: strong typing and fluent agentic, AI-assisted workflows
+
+### Selected work
+
+- **Firezone**: cross-platform client engineering on an 8.7k-star open-source zero-trust platform (Swift and Kotlin clients over a shared Rust core, unified FFI bridge).
+- **AML3D / ARCEMY**: live C++ to Rust modernisation of industrial metal 3D-printing control software, delivered without disrupting production. Promoted to Principal to architect the multi-robot successor under a A$2.24M R&D programme.
+- **10101 & ItchySats**: self-custodial Bitcoin derivatives trading (Rust + Flutter); raised US$750k at a New York accelerator.
+- **Search-and-rescue**: mission-critical data acquisition for Australia's SAR and coastwatch fleet, supporting roughly 200 rescues a year since 2018.
+
+### How I work
+
+Full vertical on purpose: hardware integration and backend through to UIs
+for desktop, web and mobile. Deepest in systems, but the product is always
+the point. Best known for Rust, though a language is a tool, not a tribe.
+Remote worldwide (async with regular live meetings across US and European
+time zones), on-site across Australia, or hybrid.
+
+### Get in touch
+
+- Website: https://klochowicz.com
+- What I can do for you: https://klochowicz.com/services/
+- LinkedIn: https://www.linkedin.com/in/klochowicz
