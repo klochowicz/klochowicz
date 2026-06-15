@@ -14,9 +14,9 @@ and network security.
 ### Selected work
 
 - **Firezone**: cross-platform client engineering on an 8.7k-star open-source zero-trust platform (Swift and Kotlin clients over a shared Rust core, unified FFI bridge).
-- **AML3D / ARCEMY**: live C++ to Rust modernisation of industrial metal 3D-printing control software, delivered without disrupting production. Promoted to Principal to architect the multi-robot successor under a A$2.24M R&D programme.
+- **AML3D / ARCEMY**: live C++ to Rust modernisation of industrial metal 3D-printing control software, delivered without disrupting production.
 - **10101 & ItchySats**: self-custodial Bitcoin derivatives trading (Rust + Flutter); raised US$750k at a New York accelerator.
-- **Search-and-rescue**: mission-critical data acquisition for Australia's SAR and coastwatch fleet, supporting roughly 200 rescues a year since 2018.
+- **Acacia Systems**: mission control system for Australia's search and rescue aircraft fleet, supporting roughly 200 rescues a year since 2018.
 
 ### How I work
 
